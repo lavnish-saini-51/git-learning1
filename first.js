@@ -3,3 +3,6 @@ console.log(button);
 
 const login = "login accessed";
 console.log(login);
+
+const footer = "footer of website";
+console.log(footer);
