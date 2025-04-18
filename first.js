@@ -13,3 +13,6 @@ const upi = "upi payment";
 console.log(upi);
 
 console.log("i am programmer");
+
+// fixing a bug 
+console.log("bug fixed");
